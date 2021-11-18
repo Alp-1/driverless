@@ -1,2 +1,5 @@
-./dijsktra/venv
-./dijsktra/.idea
+venv/
+
+.idea/
+
+__pycache__/
